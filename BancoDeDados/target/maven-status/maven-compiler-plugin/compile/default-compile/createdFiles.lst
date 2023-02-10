@@ -1,0 +1,4 @@
+DAO\DocumentsDAO.class
+multitable\com\bancodedados\BancoDeDados.class
+DTO\Documents.class
+DAO\ConexaoDAO.class
